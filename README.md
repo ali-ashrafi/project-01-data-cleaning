@@ -43,13 +43,12 @@ ali-ashrafi/
 │
 ├── .gitignore
 ├── requirements.txt
-├── README.md
-│
+|
 ├── data/
 │   ├── raw/
 │   │   └── first_dataset.xlsx
 │   └── processed/
-│       └── cleaned_customers.xlsx
+│       └── cleaned_dataset_ali_ashrafi.xlsx
 │
 └── notebooks/
 └── 01_data_cleaning_ali-ashrafi.ipynb
